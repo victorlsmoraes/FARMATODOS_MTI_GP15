@@ -28,6 +28,16 @@ Operacional e Logística:
 • Interface Clean & Funcional: Design pensado para a produtividade do colaborador que opera o sistema diariamente.
 
 🖥️Telas do Sitema:
+<img width="1877" height="922" alt="image" src="https://github.com/user-attachments/assets/1772333a-39de-4068-a7b5-6880985842fe" />
+<img width="1876" height="923" alt="image" src="https://github.com/user-attachments/assets/5c1f3869-4cca-4242-b017-1bce4f4d682b" />
+<img width="1862" height="921" alt="image" src="https://github.com/user-attachments/assets/c9510d26-2fb3-42b5-ae24-975dbd4fca8b" />
+<img width="1877" height="921" alt="image" src="https://github.com/user-attachments/assets/66b20fd8-2f67-4f84-8e7d-24a16c1212f6" />
+<img width="1861" height="921" alt="image" src="https://github.com/user-attachments/assets/1b123f50-1ecb-4395-a203-970b8cd012b9" />
+<img width="1875" height="919" alt="image" src="https://github.com/user-attachments/assets/74cbd9f2-cffc-4844-b0fd-b406cb4e6580" />
+<img width="1874" height="921" alt="image" src="https://github.com/user-attachments/assets/a6486be3-013f-4afd-b5b9-0f42d440b946" />
+<img width="1874" height="921" alt="image" src="https://github.com/user-attachments/assets/8ec72b2c-716f-44fb-9f54-5e3ca3bd49e5" />
+<img width="1877" height="921" alt="image" src="https://github.com/user-attachments/assets/6e5aa476-ce92-4d0b-b4df-14ef45ef4da6" />
+<img width="1877" height="920" alt="image" src="https://github.com/user-attachments/assets/6ae2511e-a12f-40cb-8744-472025ffb65a" />
 
 👥 Colaboradores
 Este projeto foi desenvolvido em grupo como parte da formação acadêmica no Senac:
